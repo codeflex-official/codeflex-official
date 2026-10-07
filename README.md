@@ -58,3 +58,26 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E97F7,100:00FFCA&height=120&section=footer" />
+### Hi there 👋, I'm CodeFlex Official
+
+- 🔭 Currently working on Web Development
+- 🌱 Learning JavaScript & React
+- 💬 Ask me about Coding, GitHub
+- ⚡ Exploring new technologies
+
+---
+
+### 📊 GitHub Stats:
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeflex-official&show_icons=true&theme=tokyonight)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeflex-official&layout=compact&theme=tokyonight)
+
+---
+
+### 💻 Tech Stack:
+[My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode)
+
+---
+
+### 🐍 My Contribution Graph:
+[Snake animation](https://github.com/codeflex-official/codeflex-official/blob/output/github-contribution-grid-snake.svg)
+
